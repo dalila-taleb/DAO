@@ -46,7 +46,7 @@
 .input {
   padding: 1px 2px;
   border-radius: 4px;
-  background-color: hwb(47 79% 0% / 0.967);
+  background-color:  rgb(251, 251, 234);
   color: #490007;
   font-size: 20px;
   padding: 20px;
@@ -134,7 +134,7 @@
 
 .button2 {
   border-radius: 4px;
-  background-color: hwb(346deg 0% 36%);
+  background-color: #a4002d;
   border: none;
   color: #f4fddf;
   font-size: 15px;
@@ -147,7 +147,7 @@
 }
 
 .description2 {
-  color: hwb(346deg 0% 36%);
+  color: #a4002d;
   border: none;
   font-size: 20px;
   padding: 10px;
