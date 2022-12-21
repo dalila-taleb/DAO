@@ -383,7 +383,7 @@ export default function Home() {
   }
 
   return (
-    <div>
+    <div className={styles.container}>
       <Head>
         <title>CryptoDevs DAO</title>
         <meta name="description" content="CryptoDevs DAO" />
